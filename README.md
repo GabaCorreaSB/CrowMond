@@ -14,7 +14,7 @@ CrowdMon is a **drop-in stack** that gives you real-time dashboards for **CrowdS
 - 🗃️ PostgreSQL to store structured event data
 - 📊 Grafana to visualize and explore security trends
 
-It's lightweight, containerized, and lab-tested — made for learners, hackers, and engineers who want clarity, not complexity.
+It's lightweight, containerized, and lab-tested — made for learners, ethical hackers, and engineers who want clarity, not complexity.
 
 ---
 
@@ -25,7 +25,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/GabaCorreaSB/CrowMond/mast
 ```
 
 This will:
-- Clone the repo into `~/.crowdmon-grafana`
+- Clone the repo into `~/.CrowMond`
 - Start CrowdSec, Grafana, PostgreSQL, and the exporter
 - Feed alerts into your dashboards automatically
 
