@@ -7,7 +7,7 @@
 
 set -e
 
-REPO_URL="https://github.com/GabaCorreaSB/crowdmon-grafana"
+REPO_URL="https://github.com/GabaCorreaSB/CrowMond"
 INSTALL_DIR="$HOME/.crowdmon-grafana"
 
 echo "🚀 Installing CrowdMon Grafana Edition by Gabriel Correa dos Santos Barbosa..."
