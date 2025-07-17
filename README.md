@@ -21,7 +21,7 @@ It's lightweight, containerized, and lab-tested — made for learners, hackers, 
 ### 🚀 Install It Like Oh My Zsh
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/GabaCorreaSB/crowdmon-grafana/main/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/GabaCorreaSB/crowdmon-grafana/master/install.sh)"
 ```
 
 This will:
